@@ -2,4 +2,4 @@
 
 ## Moved to https://github.com/deu/palemoon-overlay
 
-#### Submit your issues there. Keeping this repository open until layman switches to the new one.
+#### Please submit your issues there. Layman has been updated to pull updates from the new one.
